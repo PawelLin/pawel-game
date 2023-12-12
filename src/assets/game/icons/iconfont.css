@@ -1,0 +1,29 @@
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1603957671209'); /* IE9 */
+  src: url('iconfont.eot?t=1603957671209#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAARUAAsAAAAACMAAAAQGAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDFAqFCIQdATYCJAMQCwoABCAFhG0HQRuABxEVnG/Jfhw4boOOmFdF/XC5cqKKGkn/OXigPOnfTCZNmlRLo8kKaJcs1jhBvAk3+n+nAQIIym5Nx9iWw0eoLlnL8lN35dudv3w6OI/TKIVGIST/c7i0+TzM5rfajmsviqJegHFAUTjWoHkDD/g2HpjfMHYTQUPcDgFY5KU0onHT1p0xUYB+AhAjhg7ui5nRohpwAlPhq5iqEKvQMeVieRdYyT9efKCiMEGia4Ch7Qc1GUD91yXeXtJiXoweFAFvOjNgzAINKA0oEH0qrd3QomhpNCyPVVEW8KEkciq358FRF7m+3LfRfzwNCcIHkAZkbGW1xlXxMBUC3l6kQoO3l7RIGa0amYAN3L4rI7mnubGBMJRe0e/P4w8Eqk8fNCEaFlb3AYMG93DcgcWn71lykliWm80fOmUPivjpzNVKlL7f2UmLDQeW7Mse218kmkxmCabT2eLZ3L0HxcZ+S5OxxJLUhnRnqoqn5SXW9y2fP0EgndXJFk1mW5rNtVmvLEk7ne1gqVZZNrktfpnoYi1JxJK2vTQdT9nJWePTS7NEo/ENWQelHjrxh0V33ef+/cwDEutw3fKUBwWSicyd0dvJnNutUCmaN2sqq5NKZdvp1vq2vBkZCv56E2l071VjKcJBKf/r9N49bXo4lJHKDTOHy4eyh7rnyVOofuEGTv1c2cPlw9lz93EKpi9Rf3DtESHDc73lbnOlxm+zr4ilL87MrjI1eFlpReasHWdbZzPB7LvyrrfDyRxfTLxflPcfEVhUTNZ/xoSmycPm8v5H9L6Hul/Nr7YNuLi9d4WPhVr672aSm52Vd/9wv8b+8H6DhteH108tleDXm6XM16ZiOEeI6dm9oGBy3ghdMxbTqWTeEQMG5B1ZgnbGMjVC3z2xgBdMz07ITwcapvQBhQbXL6T0zAvzzZ6NzZl1lS2u1FlfQEPGAIZqF+W/AC0q94C3TZZpP/OvBHQc+7tW73DtX6atAHh2MbGXu71tim52MN+STcDP53UsU74A6JRyhZgb5CvmYMCbFFswAB7AmZGXU8izdM4HgUmWBCQGeUDDpDBSYUuDjk1l8GFSDyxKiZ1n2zJhU2J+oKSXBELEG6SQC6CJ+CAV9ge6rP7gE2kKFqftkrai5Zs9YyiYQPSEPKZGIYNsROEF07YKOS3ghAeyyQPgWk4+ccYGeYoRpks9EQWKqYaTtBtWFYFmKjAWKxPRvm2rqjtZMdWjjUYYCgmUAJEnkIuRhqLVxabw/hco1aqEuKGkx/mAmJHXD1wWpwPyLG06ldxKa6OT8gih1F4KIzVwks2oglECdHWnAooJSzYgrPlspZLqKrWWl9dvuAawgLNVUmhCCR39IRtcdnksxM+5rsIGRyMAAA==') format('woff2'),
+  url('iconfont.woff?t=1603957671209') format('woff'),
+  url('iconfont.ttf?t=1603957671209') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1603957671209#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.icon {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-erase:before {
+  content: "\e629";
+}
+
+.icon-victory:before {
+  content: "\e8c1";
+}
+
+.icon-plane:before {
+  content: "\e8c0";
+}
+
